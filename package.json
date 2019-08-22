@@ -1,0 +1,41 @@
+{
+  "name": "tailwindcss-plugin-multiple-lines",
+  "version": "0.0.1",
+  "description": "A Tailwind CSS plugin for adding multiple-line truncation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwind-css",
+    "tailwindcss-plugin",
+    "multiple-line"
+  ],
+  "author": {
+    "name": "Philipp Wahle",
+    "email": "info@wahlemedia.de"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wahlemedia/tailwindcss-plugins-multiple-line/issues"
+  },
+  "homepage": "https://github.com/wahlemedia/tailwindcss-plugins-multiple-line#readme",
+  "peerDependencies": {
+    "tailwindcss": "^1.1.2"
+  },
+  "dependencies": {
+    "postcss": "^7.0.17",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-matcher-css": "^1.1.0",
+    "tailwindcss-plugin-test-helpers": "^1.1.1"
+  }
+}
