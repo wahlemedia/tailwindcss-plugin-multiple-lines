@@ -9,7 +9,7 @@ Article.
 ## Installation 
 Add this plugin to your project
 ```
-  TODO
+  npm install tailwindcss-plugin-multiple-lines --save-dev
 ```
 
 ## Usage
