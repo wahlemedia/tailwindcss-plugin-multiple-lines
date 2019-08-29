@@ -13,14 +13,10 @@ module.exports = function(options = {}) {
 
         options = defaults({}, options, defaultOptions);
 
-        const defaultLineClampTheme = {};
         const defaultLineClampVariants = ['responsive'];
-
         const defaultOrientationVariants = ['responsive'];
 
-        const lineClampTheme = theme('lineClamp', defaultLineClampTheme);
         const lineClampVariants = variants('lineClamp', defaultLineClampVariants);
-
         const orientationVariants = variants('orientation', defaultOrientationVariants);
 
 
@@ -34,7 +30,7 @@ module.exports = function(options = {}) {
 
         // prepent lineclamp reset
         options.lineClamp.unshift(
-          'unset',
+            'unset',
         );
 
         const lineClapUtilities = fromPairs(
@@ -47,7 +43,6 @@ module.exports = function(options = {}) {
                 ];
             }),
         );
-
 
         const displayUtilities = {
             '.box': {
@@ -71,4 +66,3 @@ module.exports = function(options = {}) {
         addUtilities(boxOrientUtilities, orientationVariants);
     };
 };
-
