@@ -1,6 +1,7 @@
 ## Tailwindcss Plugin: Multiple Line
-This plugin creates the css `line-clamp` property that truncates text 
-at a specific number of lines. 
+This plugin adds helpers for the css `line-clamp` property that truncates text 
+at a specific number of lines within TailwindCSS.
+
 
 The plugin was inspired by the [CSS-Ticks](https://css-tricks.com/almanac/properties/l/line-clamp/)
 Article. 
@@ -35,7 +36,7 @@ module.exports = {
 };
 ```
 The default configuration would create the following classes:
-The classes `.clamp-0` through `.clamp-9` are generated with the responsive prefix.
+The classes `.clamp-0` through `.clamp-9` are also generated with the responsive prefix.
 ```
 .clamp-0 {
     -webkit-line-clamp: unset
@@ -116,6 +117,12 @@ The classes `.clamp-0` through `.clamp-9` are generated with the responsive pref
     </p>
 </div>
 ```
+## Testing
+To run the tests
+```
+npm run test
+```
+
 
 ## Licence
 [MIT](./LICENCE.md)
