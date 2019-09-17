@@ -23,7 +23,7 @@ Here is an example how to add this plugin to your project
 
 ```
 // tailwind.config.js
-const multipleLinesPlugin = require('tailwindcss-plugins-multiple-line');
+const multipleLinesPlugin = require('tailwindcss-plugin-multiple-lines');
 
 module.exports = {
   theme: {
