@@ -104,7 +104,7 @@ The classes `.clamp-0` through `.clamp-9` are also generated with the responsive
 ``` 
 
 ## Example
-![Example][./multiple_line_example.png]
+![Example][https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/blob/master/multiple_line_example.png]
 
 ```
 <div class="mx-auto md:max-w-2xl flex bg-white rounded-lg shadow-lg overflow-hidden mt-32 px-8 py-10">
