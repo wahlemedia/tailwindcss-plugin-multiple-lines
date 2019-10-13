@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wahlemedia/tailwindcss-plugins-multiple-line/issues"
+    "url": "https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/issues"
   },
-  "homepage": "https://github.com/wahlemedia/tailwindcss-plugins-multiple-line#readme",
+  "homepage": "https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines#readme",
   "peerDependencies": {
     "tailwindcss": "^1.1.2"
   },
