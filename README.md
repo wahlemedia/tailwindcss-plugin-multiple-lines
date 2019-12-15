@@ -1,4 +1,7 @@
 ## Tailwindcss Plugin: Multiple Line
+
+[![Actions Status](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/workflows/CI/badge.svg)](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/actions)
+
 This plugin adds helpers for the css `line-clamp` property that truncates text 
 at a specific number of lines within TailwindCSS.
 
