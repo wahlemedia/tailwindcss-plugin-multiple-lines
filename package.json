@@ -15,8 +15,9 @@
     "tailwindcss",
     "tailwind-css",
     "tailwindcss-plugin",
-    "multiple-line",
-    "multiple lines",
+    "multiple line",
+    "multiple", 
+    "lines"
   ],
   "author": {
     "name": "Philipp Wahle",
