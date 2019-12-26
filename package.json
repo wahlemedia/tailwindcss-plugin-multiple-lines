@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-plugin-multiple-lines",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Tailwind CSS plugin for adding multiple-line truncation",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "tailwindcss",
     "tailwind-css",
     "tailwindcss-plugin",
-    "multiple-line"
+    "multiple-line",
+    "multiple lines",
   ],
   "author": {
     "name": "Philipp Wahle",
