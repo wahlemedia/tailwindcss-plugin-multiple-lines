@@ -4,7 +4,7 @@ This package is deprecated, since tailwind has first-party [line-clamp plugin](h
 
 ## Tailwindcss Plugin: Multiple Line
 
-[![Actions Status](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/workflows/CI/badge.svg)](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/actions)
+[![Actions Status](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/workflows/CI/badge.svg)](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/actions) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 This plugin adds helpers for the css `line-clamp` property that truncates text 
 at a specific number of lines within TailwindCSS.
