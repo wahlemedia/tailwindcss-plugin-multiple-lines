@@ -1,6 +1,6 @@
 # DEPRECATED
 
-This package is deprecated, since tailwind has first-party [line-clamp plugin](https://tailwindcss.com/docs/plugins#line-clamp).
+This package is deprecated, since tailwind has first-party [line-clamp plugin](https://tailwindcss.com/docs/plugins#line-clamp). Please consider using it insted.
 
 ## Tailwindcss Plugin: Multiple Line
 
