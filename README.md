@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This package is deprecated, since tailwind has first-party [line-clamp plugin](https://tailwindcss.com/docs/plugins#line-clamp).
+
 ## Tailwindcss Plugin: Multiple Line
 
 [![Actions Status](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/workflows/CI/badge.svg)](https://github.com/wahlemedia/tailwindcss-plugin-multiple-lines/actions)
